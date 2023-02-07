@@ -6,7 +6,7 @@
 
 ## Languages
 ---
-> JavaScript 
+> ![https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 
 ## Topics 
 ---
